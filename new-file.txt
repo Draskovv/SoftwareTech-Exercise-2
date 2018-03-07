@@ -4,8 +4,6 @@ Test Pull!
 
 Test Push!
 
-Test
-
 <<<<<<< HEAD
 Conflict
 =======
