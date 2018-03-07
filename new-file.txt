@@ -7,8 +7,8 @@ Test Push!
 Test
 
 <<<<<<< HEAD
-dd
+Conflict
 =======
 
-Conflicts!
+Conflict Resolved
 >>>>>>> 548e46df1fcad994fba2de0b7591ed129c7bdfac
